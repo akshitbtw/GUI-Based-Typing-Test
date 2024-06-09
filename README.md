@@ -11,6 +11,7 @@ This is a GUI-based Java Swing application that offers a 60-second timed typing 
 
 ## Prerequisites
 - Java Development Kit (JDK) 8 or higher
+- NetBeans IDE
 - Apache Derby
 
 ## Screenshots
